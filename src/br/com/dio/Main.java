@@ -5,7 +5,6 @@ import br.com.dio.model.GameStatusEnum;
 import br.com.dio.model.Space;
 import br.com.dio.util.BoardTemplate;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 import static java.util.Objects.isNull;
